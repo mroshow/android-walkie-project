@@ -1,0 +1,1 @@
+Project developed for the purposes of university assessment. It requires two Android devices that are binded together via WiFi to enable speech transmission. No external access points are required, as one of the devices acts as a router.
